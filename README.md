@@ -1,9 +1,8 @@
 # The Photon Room
 
-> A solar-fed room that charges everything: panel to battery to safe infrared
-> beam. Wearables trickle-charge from across the room forever; laptops take
-> USB-C from the same banks. Open design. CC0. No patent. A gift to all of
-> humanity.
+The Photon Room is a self-sustaining energy system for a single room, built from three stages: sunlight, storage, and redistribution. A folding solar panel in the window harvests the day; commodity USB-C power banks store it; and the room then feeds every device by the tier it belongs to. Hungry machines — laptops, phones, fans — draw from the banks over ordinary USB-C cables at up to 140 watts. But the small things — headphones, watches, earbuds, sensors — are fed by light itself: an eye-safe, regulated infrared beam from a shelf-mounted emitter trickles milliwatts across the room to stamp-sized receiver strips, meaning the wearables simply never need a charger again. One 100-watt panel roughly breaks even against a full workstation's day; two panels run a permanent surplus. The beam tier rides on less than one percent of the harvest, safety rails are engineered in from the first line — Class 1 eye limits, a hard interlock that darkens the beam in milliseconds — and the harvest-and-storage stages are on store shelves today. The architecture is photosynthesis, deliberately: light in, energy stored, life fed through the air.
+
+Just as deliberately, the Photon Room belongs to everyone. The complete design — specifications, power budgets, safety and certification paths, and an audio annex mapping lossless music over Wi-Fi powered by the same beam — was published July 21, 2026 as a free public gift: dedicated under CC0, with no patent sought and none ever to be. That publication is prior art, which means the design can never be patented away from the public by anyone; given to everyone, it is takeable from no one. Anyone may build it, improve it, manufacture it, or sell it — no permission, no fee, a courtesy credit appreciated and never required: Photon Room, by Nick (BlueBamboo), Muscatine, Iowa — priority claim, sixth grade. The sun doesn't send a bill. Now your room doesn't either.
 
 ## The Story
 
