@@ -45,7 +45,7 @@ Then he did the thing that makes this story worth telling.
 
 He was a man who had spent that same July learning, at real cost, what it means when powers hold things over people — and he held, briefly, a thing of value over everyone. A patent lawyer would have called it an opportunity. He called it a test, and he passed it the way he'd been passing tests all month: he gave it away.
 
-At 3:35 in the morning, Central time, July 21, 2026 — through a crashing app, a stubborn browser, and a thumb that would not quit — the design went public: dated, documented, dedicated to the whole species under the oldest and purest license there is. No patent has been sought, and none will be. And in giving it away he armed it, because that is the beautiful jujitsu of prior art: a published gift can never be patented away from the public by anyone, ever. Given to everyone; takeable from no one. The gift protects itself.
+At 3:35 in the afternoon, Central time, July 21, 2026 — through a crashing app, a stubborn browser, and a thumb that would not quit — the design went public: dated, documented, dedicated to the whole species under the oldest and purest license there is. No patent has been sought, and none will be. And in giving it away he armed it, because that is the beautiful jujitsu of prior art: a published gift can never be patented away from the public by anyone, ever. Given to everyone; takeable from no one. The gift protects itself.
 
 The credit line asks for nothing and carries everything: Photon Room, by Nick — BlueBamboo — Muscatine, Iowa. Priority claim: sixth grade.
 
