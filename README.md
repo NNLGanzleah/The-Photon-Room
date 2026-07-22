@@ -19,45 +19,45 @@ II. The Parts List
 
 Here is what the kid could not have known: the world had quietly taken his assignment.
 
-For thirty years, without ever seeing the drawing, civilization manufactured his parts list. Solar panels — satellite-program treasures in the year he drew them — fell and fell in price until a hundred watts folded into a backpack and cost less than a pair of sneakers. Batteries shrank from car trunks to bricks to pocket slabs, until three of them, bought on sale for a hundred dollars each, could hold a full workday of a professional laptop's life — and slide past airport security, legal to the tenth of a watt-hour. And in laboratories from Stanford to Tel Aviv, engineers taught light itself to carry power across a room: safe, invisible, infrared, FDA-cleared, already feeding smart locks and shelf sensors in ordinary buildings while nobody looked up.
+For thirty years, without ever seeing the drawing, civilization manufactured his parts list. Solar panels — satellite-program treasures in the year he drew them — fell and fell in price until a hundred watts folded into a backpack and cost less than a pair of sneakers. Batteries shrank from car trunks to bricks to pocket slabs, until three of them, bought on sale, could hold a full workday of a professional laptop's life. And in quiet laboratories, engineers taught light itself to carry power across a room: safe, invisible, infrared, FDA-cleared, already feeding smart locks and shelf sensors in ordinary buildings while nobody looked up.
 
 Piece by piece, decade by decade, the hardware caught up to the homework.
 
 III. The Thread
 
-The kid grew into a builder — a sign-maker with a press, a designer's eye, and a habit of proving his points against the world. And in July of 2026, in a hotel room on a road trip through his own hard season, he pulled a thread that had nothing to do with any of it.
+The kid grew into a builder — a sign-maker with a press, a designer's eye, and a habit of proving his points against the world. And in July of 2026, on a road trip through his own hard season, he pulled a thread that had nothing to do with any of it.
 
-The thread was a song. His song — one he'd written about healing — and it didn't sound right in his brand-new headphones. So he asked why, and the why unspooled: the song was compressed. The stream was compressed. The Bluetooth itself was compressed — a radio pipe too narrow for the truth of a WAV file, and every wireless listen he'd ever had was the song through a keyhole. Fine, he said — then use the fat pipe, the one in every phone, the one AirDrop rides. That pipe exists, came the answer, but it drinks batteries. Fine, he said — I just bought three hundred watt-hours of battery. Then you've reinvented the wire. Fine, he said, and here the sixth grader stirred in his chair: then charge it from across the room.
+The thread was a song. His song — one he'd written about healing — and it didn't sound right in his brand-new headphones. So he asked why, and the why unspooled: the song was compressed. The stream was compressed. The Bluetooth itself was compressed — a radio pipe too narrow for the truth of a WAV file, and every wireless listen he'd ever had was the song through a keyhole.
 
-And the wall — the one every one of those answers had been leaning against — turned out to be a door.
+IV. The Stadium
 
-IV. The Morning
+The answer assembled itself the next afternoon, in the stands at Veterans Stadium — four hours in a plastic seat, a game unfolding below, thousands of strangers roaring around a man following a thread only he could see.
 
-The pieces assembled themselves in a single sitting, before breakfast, on a hotel desk: sun to panel. Panel to bank. Bank splitting two ways — copper for the hungry devices, an eye-safe beam of infrared light for the small ones, the headphones and watches and sensors that sip hundredths of a watt and would simply never die again. The math checked: one panel roughly breaks even against a workstation's whole day; two panels run a permanent surplus; the beam tier rides on less than one percent of the harvest. The safety checked: Class 1 eye limits, a hard interlock killing the beam in ten milliseconds if anything crosses it — rails welded to the rocket. He stared at the finished architecture and started laughing, because he recognized the handwriting.
+Use the fat pipe, he figured — the one in every phone, the one AirDrop rides. That pipe drinks batteries, came the answer. Fine — he'd just bought three hundred watt-hours of battery on sale. Then you've reinvented the wire. Fine, he said, and somewhere in the seventh-inning noise the sixth grader stirred in his seat: then charge it from across the room. Beam the power. Light for the small things, copper for the hungry ones. And the last question, the one that closed the circuit like a key turning: what if the battery drinks from solar panels?
 
-Sun in. Energy stored. Life fed through the air.
+Sun to panel. Panel to bank. Bank to beam and cable. Everything fed, nothing plugged, forever. The math checked from a stadium seat: one panel breaks even, two run a surplus, the wearables ride on less than one percent of the harvest. The safety checked: eye-safe light, a hard interlock, rails welded to the rocket. He looked at the finished architecture glowing on his phone, surrounded by ten thousand people watching a different game entirely, and started laughing — because he recognized the handwriting.
 
-He had drawn a plant. A photosynthetic room. And he had drawn it once before, thirty years ago, in crayon.
+Sun in. Energy stored. Life fed through the air. He had drawn a plant. A photosynthetic room. And he had drawn it once before, thirty years ago, in crayon.
 
 V. The Gift
 
-Then he did the thing that makes this story worth telling.
+That night, from the hotel, he did the thing that makes this story worth telling.
 
-He was a man who had spent that same July learning, at real cost, what it means when powers hold things over people — and he held, briefly, a thing of value over everyone. A patent lawyer would have called it an opportunity. He called it a test, and he passed it the way he'd been passing tests all month: he gave it away.
+He was a man who had spent that same July learning, at real cost, what it means when powers hold things over people — and now he held, briefly, a thing of value over everyone. A patent lawyer would have called it an opportunity. He called it a test, and he passed it the way he'd been passing tests all month: he gave it away.
 
-At 3:35 in the afternoon, Central time, July 21, 2026 — through a crashing app, a stubborn browser, and a thumb that would not quit — the design went public: dated, documented, dedicated to the whole species under the oldest and purest license there is. No patent has been sought, and none will be. And in giving it away he armed it, because that is the beautiful jujitsu of prior art: a published gift can never be patented away from the public by anyone, ever. Given to everyone; takeable from no one. The gift protects itself.
+At 3:35 in the morning, Central time, July 21, 2026 — through a crashing app, a stubborn browser, and a thumb that would not quit — the design went public: dated, documented, dedicated to the whole species under the oldest and purest license there is. No patent has been sought, and none will be. And in giving it away he armed it, because that is the beautiful jujitsu of prior art: a published gift can never be patented away from the public by anyone, ever. Given to everyone; takeable from no one. The gift protects itself.
 
 The credit line asks for nothing and carries everything: Photon Room, by Nick — BlueBamboo — Muscatine, Iowa. Priority claim: sixth grade.
 
 VI. The Room, Going Forward
 
-The room is buildable this afternoon — two-thirds of it from any big-box shelf: panel, bank, cable, done. The last third — the emitter on the ceiling, the stamp-sized receiver on the headband — waits in the open questions, free for any engineer, any student, any stranger to fork and finish. The annex already maps the music: lossless song riding Wi-Fi, powered by beamed light, a headphone that never meets a charger. The night shift is sketched — panels that harvest the cold dark sky itself. The blueprints sit at a permanent public address, working every hour, in every time zone, forever.
+The room is buildable this afternoon — two-thirds of it from any big-box shelf: panel, bank, cable, done. The last third — the emitter on the ceiling, the stamp-sized receiver on the headband — waits in the open questions, free for any engineer, any student, any stranger to fork and finish. The annex already maps the music: lossless song riding Wi-Fi, powered by beamed light, a headphone that never meets a charger. The blueprints sit at a permanent public address, working every hour, in every time zone, forever.
 
-Somewhere, eventually, a room will run on this. Maybe a dorm, maybe a shop in Iowa, maybe a clinic off every grid on Earth. Its builder won't need permission, won't owe a fee, and may never know the whole story — the song that started it, the hard July, the hotel desk, the thumb at 3:35 AM.
+Somewhere, eventually, a room will run on this. Its builder won't need permission, won't owe a fee, and may never know the whole story — the song, the hard July, the stadium seat, the thumb at 3:35 AM.
 
 But the room will know what rooms know.
 
-The kid was right. It just took the world thirty years to stock the store.
+The kid was right. It just took the world thirty years to stock the store — and one afternoon at a ballgame to read the list.
 
 The sun doesn't send a bill. Now your room doesn't either.
 
