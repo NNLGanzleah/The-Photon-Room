@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or reference this design, please cite it as below. Courtesy only - CC0 means no citation is ever required."
+title: "The Photon Room"
+type: software
+authors:
+  - family-names: "Nick"
+    name-particle: "(BlueBamboo)"
+    city: "Muscatine"
+    region: "Iowa"
+    country: "US"
+date-released: 2026-07-21
+url: "https://github.com/NNLGanzleah/The-Photon-Room"
+repository-code: "https://github.com/NNLGanzleah/The-Photon-Room"
+license: CC0-1.0
+keywords:
+  - solar
+  - wireless-power
+  - infrared-power-beaming
+  - open-hardware
+  - radiative-cooling
+  - lossless-audio
+  - public-domain
+abstract: >-
+  A self-sustaining room energy system: sunlight harvested by portable
+  photovoltaic panels, stored in commodity USB-C power banks, and
+  redistributed on two tiers - USB-C copper for high-draw devices, and
+  an eye-safe regulated infrared beam trickle-charging milliwatt-class
+  wearables, which never require a charger again. Includes power-budget
+  ledger, safety interlock reference logic, audio-over-Wi-Fi annex, and
+  radiative night-harvest annex. Published as a public-domain gift and
+  prior-art disclosure: no patent sought, none ever to be. Priority
+  claim: sixth grade. Reduced to practice: July 2026, Iowa.
